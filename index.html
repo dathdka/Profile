@@ -12,6 +12,7 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
     />
+    <script async src="https://api.countapi.xyz/hit/https://dathdka.github.io/Profile/visits?callback=counter"></script>
   </head>
   <body onmouseout="window.location.href='./desktop-1.html'">
     <div class="desktop-2" >
@@ -21,6 +22,7 @@
         src="public/multicolordesignify-1@2x.png" 
       />
       <div class="back-end-deverloper-div">Back-end Deverloper</div>
+      <div class="back-end-deverloper-div">This page got <span id="visits"></span> views.</div>
       <img
         class="github-icon-download-at-icons8"
         alt=""
@@ -70,4 +72,9 @@
       <div class="hoang-dat-div">Hoang Dat</div>
     </div>
   </body>
+  <script>
+    function counter(response) {
+    document.getElementById('visits').innerText = response.value;
+    }
+  </script>
 </html>
