@@ -27,6 +27,16 @@ body {
   width: 700px;
   height: 79px;
 }
+.counter-div {
+  position: absolute;
+  top: 210px;
+  left: 130px;
+  color: blueviolet;
+  font-size: 15px;
+  display: inline-block;
+  width: 700px;
+  height: 79px;
+}
 .github-icon-download-at-icons8 {
   position: absolute;
   top: 235px;
