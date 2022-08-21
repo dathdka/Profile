@@ -7,8 +7,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 1839px;
-  height: 1035px;
+  width: 1947px;
+  height: 1096px;
   object-fit: cover;
 }
 .multicolor-designify-1-icon {
@@ -18,21 +18,11 @@ body {
   width: 34px;
   height: 34px;
 }
-.back-end-deverloper-div {
+.back-end-developer-div {
   position: absolute;
   top: 159px;
   left: 130px;
   font-size: 40px;
-  display: inline-block;
-  width: 700px;
-  height: 79px;
-}
-.counter-div {
-  position: absolute;
-  top: 210px;
-  left: 130px;
-  color: blueviolet;
-  font-size: 15px;
   display: inline-block;
   width: 700px;
   height: 79px;
@@ -117,8 +107,8 @@ body {
   height: 201px;
   object-fit: cover;
 }
-.currently-working-on,
-.video-chat-website-with-javasc {
+.currently-learning-div,
+.currently-working-on {
   position: absolute;
   top: 580px;
   left: 114px;
@@ -127,68 +117,55 @@ body {
   width: 483px;
   height: 46px;
 }
-.video-chat-website-with-javasc {
-  border: 0;
-  background-color: transparent;
-  top: 732px;
-  left: 472px;
-  font-family: Poppins;
-  color: #fff;
-  text-align: left;
-  width: 739px;
-  height: 86px;
-}
 .currently-learning-div {
-  position: absolute;
-  top: 343px;
-  left: 943px;
-  font-size: 30px;
-  display: inline-block;
+  top: 405px;
+  left: 1261px;
+  font-size: 40px;
   width: 382px;
   height: 78px;
 }
 .download-1-icon,
 .download-2-1 {
   position: absolute;
-  top: 406px;
-  left: 994px;
+  top: 468px;
+  left: 1277px;
   border-radius: 5px;
-  width: 29px;
-  height: 28px;
+  width: 59px;
+  height: 57px;
   object-fit: cover;
 }
 .download-2-1 {
-  left: 1091px;
-  height: 29px;
+  left: 1476px;
+  height: 59px;
 }
 .react-logo-7b3ce81517-seeklogo-icon {
   position: absolute;
-  top: 406px;
-  left: 1039px;
-  width: 31px;
-  height: 27px;
+  top: 468px;
+  left: 1372px;
+  width: 63px;
+  height: 55px;
   object-fit: cover;
 }
 .download-3-1,
 .javascript-logo-1-icon,
 .mysql-logo-1-icon {
   position: absolute;
-  top: 406px;
-  left: 1143px;
-  width: 50px;
-  height: 31px;
+  top: 468px;
+  left: 1581px;
+  width: 102px;
+  height: 63px;
   object-fit: cover;
 }
 .download-3-1,
 .javascript-logo-1-icon {
-  left: 1209px;
+  left: 1716px;
   border-radius: 5px;
-  width: 31px;
+  width: 63px;
 }
 .javascript-logo-1-icon {
-  left: 943px;
-  width: 28px;
-  height: 28px;
+  left: 1173px;
+  width: 57px;
+  height: 57px;
 }
 .hoang-dat-div {
   position: absolute;
@@ -197,6 +174,22 @@ body {
   font-size: 60px;
   display: inline-block;
   width: 467px;
+  height: 103px;
+}
+.video-chat-website {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.javascript {
+  margin: 0;
+}
+.video-chat-website-javascript {
+  position: absolute;
+  top: 710px;
+  left: 493px;
+  font-size: 32px;
+  display: inline-block;
+  width: 704px;
   height: 103px;
 }
 .desktop-2 {
